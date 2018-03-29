@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+exit 0
 DEST_DIR=$1
 echo $SRC_DIR 1>&2
 echo $BUILD_ID 1>&2
